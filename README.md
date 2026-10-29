@@ -1,2 +1,2 @@
 # terrain3d-data
-Données géographiques pour Terrain3D : HGT et polygones JSON.
+Regional elevation data for my offline mountain app
